@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SarahKhan/static/css/main.507a3381.css",
+    "main.js": "/SarahKhan/static/js/main.cb77b07a.js",
+    "static/media/FixIt.png": "/SarahKhan/static/media/FixIt.3135ab6e85c0911bfca1.png",
+    "static/media/NutriSure.png": "/SarahKhan/static/media/NutriSure.f8472ff903973397d8d4.png",
+    "static/media/Barbie.jpeg": "/SarahKhan/static/media/Barbie.f9bd6cd62ee8429e4137.jpeg",
+    "static/media/Me.jpeg": "/SarahKhan/static/media/Me.7a3d89988c4f2c9fed24.jpeg",
+    "static/media/NyaySahay.jpeg": "/SarahKhan/static/media/NyaySahay.ea960e8d4a2a88cbbbcc.jpeg",
+    "static/media/Saathi.jpeg": "/SarahKhan/static/media/Saathi.b7a48a94b4d988b60eb9.jpeg",
+    "static/media/kitchen.jpeg": "/SarahKhan/static/media/kitchen.5b976bed53f5b8c4c88f.jpeg",
+    "static/media/phishnet.jpeg": "/SarahKhan/static/media/phishnet.b570ba982ada83baefba.jpeg",
+    "index.html": "/SarahKhan/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.cb77b07a.js"
+  ]
+}
